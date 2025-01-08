@@ -1,6 +1,8 @@
 # Eye-Exercise
 
-This exercise uses an .onmousemove event to simulate the movement of two eyes, when a mouse is moved over them on the screen. The eyes will follow the direction of the mouse, in any direction.
+This exercise uses an .onmousemove event to simulate the movement of two eyes, when a mouse is moved over them on the screen. The eyes will follow the direction of the mouse, in any direction. Technologies used: JavaScript ES6, HTML, and CSS.
+
+![image](https://github.com/user-attachments/assets/d91d7945-f56a-4ff8-aca8-66d5a9315835)
 
 
 **How to Run**
